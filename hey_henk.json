@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
+  "wake_word": "Hey Henk",
   "author": "Joris Vandalon",
   "website": "http://nxdomain.org",
   "model": "hey_henk.tflite",
