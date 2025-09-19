@@ -3,7 +3,7 @@
   "wake_word": "hey henk",
   "author": "Joris Vandalon",
   "website": "https://hass.wiebel.nl/",
-  "model": "hey_henk.tflite",
+  "model": "./hey_henk.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.97,
